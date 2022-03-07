@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zol22
 - 👀 I’m interested in ... Front end development
-- 🌱 I’m currently learning ...in Youtube , React Native, Redux
+- 🌱 I’m currently learning ...in Documentation Next.js and Redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ssormeno@hotmail.com
 
