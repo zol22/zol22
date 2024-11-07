@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zol22
 - 👀 I’m interested in ... Full Stack development
-- 🌱 I’m currently learning ...in Documentation Next.js and Redux
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Selenium Automation Testing with python 
+- 💞️ I’m looking to collaborate on ... any project related to software development
 - 📫 How to reach me ... ssormeno@hotmail.com
 
 <!---
