@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zol22
 - 👀 I’m interested in ... Full Stack development
-- 🌱 I’m currently learning ...Next.js
+- 🌱 I’m currently learning ... Webflow
 - 💞️ I’m looking to collaborate on ... any project related to software development
 - 📫 How to reach me ... ssormeno@hotmail.com
 
